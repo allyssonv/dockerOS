@@ -1,0 +1,1 @@
+First experiment with moby and linuxKit for creation of a OS image to run Docker.
